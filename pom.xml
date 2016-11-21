@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wetts</groupId>
-    <artifactId>java-long-connection-demo</artifactId>
+    <artifactId>http-long-connection-demo</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>java-long-connection-demo Maven Webapp</name>
+    <name>http-long-connection-demo Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
     <properties>
