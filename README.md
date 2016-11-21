@@ -1,4 +1,4 @@
-# http-connection-demo
+# http-long-connection-demo
 java长连接、轮训实现
 
 - polling 用轮训的方式实现长连接
